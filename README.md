@@ -8,4 +8,5 @@ the .7z files, extract those) and put them in Gangle_AI. The actual assistant ap
 folder.
 
 
-LM Studio: https://lmstudio.ai/download
+#LM Studio
+https://lmstudio.ai/download
